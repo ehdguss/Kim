@@ -1,0 +1,41 @@
+.A, .B{
+  display:grid;
+  grid-template-columns:330px 531px;
+}
+.C{
+  display:grid;
+  grid-template-columns: 450px 531px;
+}
+.D{
+  display:grid;
+  grid-template-columns: 360px 450px;
+}
+#ul1{
+  border-top: black 5px double;
+}
+#t1, #t2, img{
+  padding:20px;
+}
+#t3 {
+  padding-top:20px;
+}
+#t4 {
+  padding-left:20px;
+}
+.All_line{
+  border-left:black 1px solid;
+  border-right:black 1px solid;
+}
+#pic{
+  padding:0px;
+  float:left;
+}
+.reference{
+  font-size:5px;
+  color:gray;
+  text-decoration: underline;
+  display:inline;
+}
+p{
+  margin-bottom: 0px;
+}
